@@ -1,0 +1,49 @@
+[
+  {
+    "order_id": 5001,
+    "customer": "Alice Smith",
+    "date": "2026-07-15",
+    "items": [
+      { "sku": "SKU-101", "quantity": 2 },
+      { "sku": "SKU-102", "quantity": 1 }
+    ]
+  },
+
+  {
+    "order_id": 5002,
+    "customer": "Bob Jones",
+    "date": "2026-07-16",
+    "items": [{ "sku": "SKU-103", "quantity": 1 }]
+  },
+
+  {
+    "order_id": 5003,
+    "customer": "Charlie Brown",
+    "date": "2026-07-16",
+    "items": [{ "sku": "SKU-999", "quantity": 1 }]
+  },
+
+  {
+    "order_id": 5004,
+    "customer": "",
+    "date": "2026-07-17",
+    "items": [{ "sku": "SKU-104", "quantity": 1 }]
+  },
+
+  {
+    "order_id": 5005,
+    "customer": "Diana Prince",
+    "date": "2026-07-17",
+    "items": [{ "sku": "SKU-105", "quantity": -3 }]
+  },
+
+  {
+    "order_id": 5006,
+    "customer": "Evan Wright",
+    "date": "2026-07-18",
+    "items": [
+      { "sku": "SKU-104", "quantity": 2 },
+      { "sku": "SKU-101", "quantity": 1 }
+    ]
+  }
+]
